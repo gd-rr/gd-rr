@@ -3,7 +3,7 @@
 ## À propos de moi 
 
 Je suis en troisième année de licence informatique à l’Université Claude Bernard.
-Passionné de jeux vidéos et de développement, j’entreprends de faire un master dans l’ingénierie du jeu vidéo.
+Passionné de jeux vidéo et de développement, j’entreprends de faire un master dans l’ingénierie du jeu vidéo.
 Le langage que j'utilise le plus est sans aucun doute le C++. 
 Cependant grâce à ma formation je maîtrise également le Java, le SQL ou encore les langages du web. 
 
